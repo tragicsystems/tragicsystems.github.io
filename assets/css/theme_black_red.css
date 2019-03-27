@@ -36,7 +36,7 @@
  *
  * theme
  * #225AF0
- * #c71045 [hover]
+ * #00bbf8 [hover]
  *
  */
 /**
@@ -489,7 +489,7 @@ a:focus {
 a:focus,
 a:hover {
   text-decoration: none;
-  color: #c71045;
+  color: #00bbf8;
 }
 
 i {
@@ -569,8 +569,8 @@ i {
 .btn-theme:active:focus,
 .btn-theme:focus,
 .btn-theme:hover {
-  border-color: #c71045;
-  background-color: #c71045;
+  border-color: #00bbf8;
+  background-color: #00bbf8;
   color: #fff;
 }
 
@@ -1389,7 +1389,7 @@ i {
 }
 
 #newsletter .mfp-close_c:hover {
-  border-top-color: #c71045;
+  border-top-color: #00bbf8;
 }
 
 @media (min-width: 992px) {
