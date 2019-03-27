@@ -35,7 +35,7 @@
  * rgba(1, 1, 1, 0.45)
  *
  * theme
- * #e81351
+ * #225AF0
  * #c71045 [hover]
  *
  */
@@ -141,7 +141,7 @@ img {
 
 /* color */
 .color {
-  color: #e81351;
+  color: #225AF0;
 }
 
 /* align */
@@ -479,7 +479,7 @@ pre:last-child {
 }
 
 a {
-  color: #e81351;
+  color: #225AF0;
 }
 
 a:focus {
@@ -560,8 +560,8 @@ i {
 }
 
 .btn-theme {
-  border-color: #e81351;
-  background-color: #e81351;
+  border-color: #225AF0;
+  background-color: #225AF0;
   color: #fff;
 }
 
@@ -658,7 +658,7 @@ i {
   font-family: Arial, sans-serif;
   font-size: 20px;
   font-weight: 700;
-  color: #e81351;
+  color: #225AF0;
 }
 
 .form-theme .form-group {
@@ -669,7 +669,7 @@ i {
 }
 
 .form-theme .form-group.error {
-  border-bottom-color: #e81351;
+  border-bottom-color: #225AF0;
 }
 
 .form-theme .form-label {
@@ -722,7 +722,7 @@ i {
   height: 120px;
   margin: -60px 0 0 -60px;
   border: 15px solid rgba(255, 255, 255, 0.05);
-  border-left-color: #e81351;
+  border-left-color: #225AF0;
 }
 
 .site-loader p {
@@ -751,7 +751,7 @@ i {
     border-left-color: rgba(232, 19, 81, 0.5);
   }
   50% {
-    border-left-color: #e81351;
+    border-left-color: #225AF0;
   }
   100% {
     -webkit-transform: rotate(360deg);
@@ -766,7 +766,7 @@ i {
     border-left-color: rgba(232, 19, 81, 0.5);
   }
   50% {
-    border-left-color: #e81351;
+    border-left-color: #225AF0;
   }
   100% {
     -o-transform: rotate(360deg);
@@ -782,7 +782,7 @@ i {
     border-left-color: rgba(232, 19, 81, 0.5);
   }
   50% {
-    border-left-color: #e81351;
+    border-left-color: #225AF0;
   }
   100% {
     -webkit-transform: rotate(360deg);
@@ -928,7 +928,7 @@ i {
 }
 
 .site-nav__menu a.is-active {
-  color: #e81351;
+  color: #225AF0;
 }
 
 @media (min-width: 992px) {
@@ -1319,7 +1319,7 @@ i {
   z-index: -3;
   max-width: 640px;
   margin: 0 auto;
-  border: 4px double #e81351;
+  border: 4px double #225AF0;
   padding: 15px;
   background-image: url(http://s4mur41.pw/assets/img/bg/newsletter.jpg);
   background-repeat: no-repeat;
@@ -1343,7 +1343,7 @@ i {
 }
 
 #newsletter .error label {
-  color: #e81351;
+  color: #225AF0;
 }
 
 #newsletter .mfp-close_c {
@@ -1358,7 +1358,7 @@ i {
   width: auto;
   height: auto;
   line-height: 1;
-  border-top: 60px solid #e81351;
+  border-top: 60px solid #225AF0;
   border-left: 60px solid transparent;
   padding: 0;
   background-color: transparent;
@@ -1416,7 +1416,7 @@ i {
 }
 
 #formNewsletter .form-group.error {
-  border-bottom-color: #e81351;
+  border-bottom-color: #225AF0;
 }
 
 @media (max-width: 991px) {
@@ -1470,12 +1470,12 @@ i {
   line-height: 56px;
   font-size: 25px;
   text-align: center;
-  background-color: #e81351;
+  background-color: #225AF0;
   color: #fff;
 }
 
 .about__item h3 {
-  color: #e81351;
+  color: #225AF0;
 }
 
 @media (max-width: 991px) {
@@ -1519,7 +1519,7 @@ i {
   font-size: 25px;
   margin-bottom: 20px;
   text-align: center;
-  background-color: #e81351;
+  background-color: #225AF0;
 }
 
 .service__item__icon i {
@@ -1590,14 +1590,14 @@ i {
   line-height: 56px;
   font-size: 25px;
   text-align: center;
-  background-color: #e81351;
+  background-color: #225AF0;
   color: #fff;
 }
 
 .contact-info__item h3 {
   line-height: 1;
   margin-bottom: 10px;
-  color: #e81351;
+  color: #225AF0;
 }
 
 .contact-info__item p {
@@ -1637,7 +1637,7 @@ i {
           transition-property: background-color;
   display: inline-block;
   padding: 0 10px;
-  background-color: #e81351;
+  background-color: #225AF0;
 }
 
 #formContact .btn {
